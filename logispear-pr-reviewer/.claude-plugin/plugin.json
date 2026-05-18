@@ -1,0 +1,12 @@
+{
+  "name": "logispear-pr-reviewer",
+  "version": "1.0.0",
+  "description": "Generic GitHub PR reviewer: fetch diff + CI checks for any repo, classify failures as PR-related vs infra, and emit a ready/not-ready verdict with a structured checklist.",
+  "author": {
+    "name": "LogiSpear",
+    "url": "https://github.com/logispear"
+  },
+  "homepage": "https://github.com/logispear/pr-review-agent-skills",
+  "license": "MIT",
+  "keywords": ["pr-review", "github", "ci", "generic", "triage"]
+}
